@@ -1,1 +1,1 @@
-<h1 align="center">编程作业“Face Recognition”</h1>
+<h1 align="center">Face Recognition”</h1>
